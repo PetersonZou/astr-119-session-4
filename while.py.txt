@@ -1,0 +1,5 @@
+i=0		#define an integer
+
+while (i<119):	#while i is less than 119, do as below
+	print(i)	#print current value of i
+	i+=10	#increment i by 10
